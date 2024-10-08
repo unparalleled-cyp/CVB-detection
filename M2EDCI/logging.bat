@@ -1,0 +1,1 @@
+tail -f ./log/1.log
